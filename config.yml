@@ -1,0 +1,8 @@
+backend:
+  output_dir: output
+
+frontend:
+  backend:
+    host: 127.0.0.1
+    port: 8000
+    endpoint: yolov8

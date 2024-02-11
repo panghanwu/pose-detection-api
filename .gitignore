@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints
+
+temp.mp4
+yolov8n-pose.pt
+demo.ipynb
